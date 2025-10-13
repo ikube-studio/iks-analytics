@@ -1,6 +1,9 @@
 {
-  "totalLaunches": 0,
-  "totalUsers": 0,
-  "users": {}
+  "totalLaunches" : 1,
+  "totalUsers" : 1,
+  "users" : {
+    "b6d8a6a5-9a9f-4a12-99ef-7b502df511f7" : {
+      "launchCount" : 1
+    }
+  }
 }
-
