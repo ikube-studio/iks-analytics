@@ -1,8 +1,8 @@
 {
-  "totalLaunches" : 3,
+  "totalLaunches" : 4,
   "totalUsers" : 2,
   "osStats" : {
-    "Linux" : 3
+    "Linux" : 4
   },
   "users" : {
     "a02cbd87-24fa-40aa-929c-eae7e86b8032" : {
@@ -12,13 +12,14 @@
       "lastLaunch" : "2025-10-27T01:25:16.468162012Z"
     },
     "599cf0e7-2268-4963-8d65-22627ae0046d" : {
-      "launchCount" : 2,
-      "lastVersion" : "1.0.4",
+      "launchCount" : 3,
+      "lastVersion" : "1.0.5",
       "os" : "Linux",
-      "lastLaunch" : "2025-10-27T20:33:37.123310443Z"
+      "lastLaunch" : "2025-10-27T20:42:13.894568148Z"
     }
   },
   "versionStats" : {
-    "1.0.4" : 3
+    "1.0.4" : 3,
+    "1.0.5" : 1
   }
 }
