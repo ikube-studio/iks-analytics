@@ -1,6 +1,6 @@
 {
-  "totalLaunches" : 85,
-  "totalUsers" : 19,
+  "totalLaunches" : 86,
+  "totalUsers" : 20,
   "users" : {
     "b6d8a6a5-9a9f-4a12-99ef-7b502df511f7" : {
       "launchCount" : 1
@@ -58,6 +58,9 @@
     },
     "88c7648c-4252-4559-86be-0720d6eb19b8" : {
       "launchCount" : 3
+    },
+    "25a64f22-0709-4f76-9379-68b00332ce64" : {
+      "launchCount" : 1
     }
   }
 }
