@@ -1,7 +1,18 @@
 {
-  "totalLaunches" : 0,
-  "totalUsers" : 0,
-  "osStats" : {  },
+  "totalLaunches" : 1,
+  "totalUsers" : 1,
+  "osStats" : {
+    "Linux" : 1
+  },
   "users" : {
+    "a02cbd87-24fa-40aa-929c-eae7e86b8032" : {
+      "launchCount" : 1,
+      "lastVersion" : "1.0.4",
+      "os" : "Linux",
+      "lastLaunch" : "2025-10-27T01:25:16.468162012Z"
+    }
+  },
+  "versionStats" : {
+    "1.0.4" : 1
   }
 }
