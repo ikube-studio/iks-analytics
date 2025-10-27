@@ -1,13 +1,7 @@
 {
-  "totalLaunches" : 1,
-  "totalUsers" : 1,
-  "osStats" : {
-    "Linux" : 1
-  },
+  "totalLaunches" : 0,
+  "totalUsers" : 0,
+  "osStats" : {  },
   "users" : {
-    "a02cbd87-24fa-40aa-929c-eae7e86b8032" : {
-      "launchCount" : 1,
-      "os" : "Linux"
-    }
   }
 }
