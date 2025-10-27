@@ -1,72 +1,7 @@
 {
-  "totalLaunches" : 91,
-  "totalUsers" : 22,
+  "totalLaunches" : 0,
+  "totalUsers" : 0,
+  "osStats": {},
   "users" : {
-    "b6d8a6a5-9a9f-4a12-99ef-7b502df511f7" : {
-      "launchCount" : 1
-    },
-    "b6d8a6a5-9a9f-4a12-99ef-7b502df511f5" : {
-      "launchCount" : 12
-    },
-    "37bcd48a-d36d-4a50-b41b-48be4733b3fc" : {
-      "launchCount" : 1
-    },
-    "931f0832-1795-46b9-bff2-7aa2d574b08a" : {
-      "launchCount" : 1
-    },
-    "134e80c9-8fa8-4e1e-8a31-0e64dd4b7128" : {
-      "launchCount" : 2
-    },
-    "1939aa86-d561-4286-8d38-efa747d4ced0" : {
-      "launchCount" : 1
-    },
-    "1653d2ae-f488-4585-9c14-782240f226d4" : {
-      "launchCount" : 1
-    },
-    "5980e74d-72fb-460d-a219-4bf98e838ec0" : {
-      "launchCount" : 1
-    },
-    "fc2a309d-7f72-498f-b967-0f9c2f9fb7c7" : {
-      "launchCount" : 1
-    },
-    "6873e050-dfa9-45f3-960a-a6ca8f438800" : {
-      "launchCount" : 1
-    },
-    "92e58c45-8a7c-4749-8a7c-69f21bfdabf2" : {
-      "launchCount" : 1
-    },
-    "6a8f0047-0d82-4daf-b59b-6077fd44d39c" : {
-      "launchCount" : 2
-    },
-    "3cae35b7-dc3a-4f22-8343-e26a74bd40d0" : {
-      "launchCount" : 14
-    },
-    "78ce6912-23fa-49f3-900c-80687ed27729" : {
-      "launchCount" : 4
-    },
-    "46073d96-1002-44b6-a5f6-6581e5332030" : {
-      "launchCount" : 36
-    },
-    "22240e69-68b5-4f3e-aac9-2a7a6dd63876" : {
-      "launchCount" : 1
-    },
-    "5bda2702-4250-4d72-b9c9-5b5df83269fc" : {
-      "launchCount" : 1
-    },
-    "5e47742e-f411-41ea-9451-3772e505e1c6" : {
-      "launchCount" : 1
-    },
-    "88c7648c-4252-4559-86be-0720d6eb19b8" : {
-      "launchCount" : 3
-    },
-    "25a64f22-0709-4f76-9379-68b00332ce64" : {
-      "launchCount" : 2
-    },
-    "392f6618-464e-4302-8267-7f06e0e89e20" : {
-      "launchCount" : 2
-    },
-    "fa4ffb97-9e45-4d89-83b7-5769a266b01d" : {
-      "launchCount" : 2
-    }
   }
 }
