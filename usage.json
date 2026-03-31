@@ -1,8 +1,8 @@
 {
-  "totalLaunches" : 600,
+  "totalLaunches" : 601,
   "totalUsers" : 5,
   "osStats" : {
-    "Linux" : 599
+    "Linux" : 600
   },
   "users" : {
     "a02cbd87-24fa-40aa-929c-eae7e86b8032" : {
@@ -33,17 +33,17 @@
       "email" : "engkhaledmos3ad@gmail.com"
     },
     "b642b421-7b34-31e8-93bd-915fc65c4452" : {
-      "launchCount" : 6,
+      "launchCount" : 7,
       "lastVersion" : "1.0.5",
       "role" : "Developer",
       "os" : "Linux",
-      "lastLaunch" : "2026-03-31T16:04:54.607575277Z",
+      "lastLaunch" : "2026-03-31T16:13:55.541149286Z",
       "installId" : "3d971c97-6268-4126-b0b3-0e286acc76c6",
       "email" : "test@test.com"
     }
   },
   "versionStats" : {
     "1.0.4" : 3,
-    "1.0.5" : 596
+    "1.0.5" : 597
   }
 }
